@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on Gift Cards Link Page]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the Physical Gift Card page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ Gift Card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards]]>
+    </line>
+    <line>
+      <![CDATA[Selecting product position by it index value  ]]>
+    </line>
+    <line>
+      <![CDATA[Selecting display size of product]]>
+    </line>
+    <line>
+      <![CDATA[Selecting view of products ]]>
+    </line>
+    <line>
+      <![CDATA[Selecting $100 Physical Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering sender Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering message through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quantity of $100 Physical Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Navigating back to Book page ]]>
+    </line>
+    <line>
+      <![CDATA[Selecting $25 Virtual Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Email ID through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering sender Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Email ID through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering message through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quantity of $25 Virtual Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Navigating back to Book page ]]>
+    </line>
+    <line>
+      <![CDATA[Selecting $5 Virtual Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Email ID through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering sender Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Email ID through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering message through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quantity of  $5 Virtual Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Navigating back to Book page ]]>
+    </line>
+    <line>
+      <![CDATA[Selecting $50 Physical Gift Card ]]>
+    </line>
+    <line>
+      <![CDATA[Entering Recipients Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering sender Name through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Entering message through send keys]]>
+    </line>
+    <line>
+      <![CDATA[Adding Quantity of  $50 Physical Gift Card ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17460" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17460" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:25 IST">
+      <class name="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="beforeSuite" is-config="true" duration-ms="7186" started-at="2020-06-12T17:42:01 IST" finished-at="2020-06-12T17:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC006_DemoWorkShop_Gift_Cards_Page()[pri:6, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="TC006_DemoWorkShop_Gift_Cards_Page" duration-ms="16710" started-at="2020-06-12T17:42:08 IST" finished-at="2020-06-12T17:42:25 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gift Cards Link Page]]>
+            </line>
+            <line>
+              <![CDATA[Verifying the Physical Gift Card page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ Gift Card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards]]>
+            </line>
+            <line>
+              <![CDATA[Selecting product position by it index value  ]]>
+            </line>
+            <line>
+              <![CDATA[Selecting display size of product]]>
+            </line>
+            <line>
+              <![CDATA[Selecting view of products ]]>
+            </line>
+            <line>
+              <![CDATA[Selecting $100 Physical Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering sender Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering message through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quantity of $100 Physical Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Navigating back to Book page ]]>
+            </line>
+            <line>
+              <![CDATA[Selecting $25 Virtual Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Email ID through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering sender Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Email ID through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering message through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quantity of $25 Virtual Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Navigating back to Book page ]]>
+            </line>
+            <line>
+              <![CDATA[Selecting $5 Virtual Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Email ID through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering sender Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Email ID through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering message through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quantity of  $5 Virtual Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Navigating back to Book page ]]>
+            </line>
+            <line>
+              <![CDATA[Selecting $50 Physical Gift Card ]]>
+            </line>
+            <line>
+              <![CDATA[Entering Recipients Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering sender Name through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Entering message through send keys]]>
+            </line>
+            <line>
+              <![CDATA[Adding Quantity of  $50 Physical Gift Card ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC006_DemoWorkShop_Gift_Cards_Page -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-12T17:42:25 IST" finished-at="2020-06-12T17:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="getResult" is-config="true" duration-ms="517" started-at="2020-06-12T17:42:25 IST" finished-at="2020-06-12T17:42:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC006_DemoWorkShop_Gift_Cards_Page status=SUCCESS method=DemoWorkShop_End_To_End.TC006_DemoWorkShop_Gift_Cards_Page()[pri:6, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3] output=Clicking on Gift Cards Link Page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="AfterClass" is-config="true" duration-ms="0" started-at="2020-06-12T17:42:25 IST" finished-at="2020-06-12T17:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="afterTest" is-config="true" duration-ms="179" started-at="2020-06-12T17:42:25 IST" finished-at="2020-06-12T17:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@473b46c3]" name="afterSuite" is-config="true" duration-ms="831" started-at="2020-06-12T17:42:25 IST" finished-at="2020-06-12T17:42:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.demoworkshop.qa.Test.DemoWorkShop_End_To_End -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
